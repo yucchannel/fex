@@ -1,3 +1,1 @@
-/Users/yuutonoimac/Desktop/SEE/new_image.jpg
-/Users/yuutonoimac/Desktop/SEE/new_image3.jpg
-/Users/yuutonoimac/Desktop/SEE/download.jpg
+Write here the path to the image you wish to verify. Please erase this message.
