@@ -1,0 +1,10 @@
+{
+    "dataset_path": "dataset",
+    "red_label": "reds",
+    "other_labels": ["other"],
+    "window_size": 64,
+    "step_size": 32,
+    "resize_size": [32, 32],
+    "threshold": 25000
+  }
+  

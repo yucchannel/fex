@@ -1,0 +1,14 @@
+[
+  {
+    "image": "/Users/yuutonoimac/Desktop/SEE/new_image.jpg",
+    "prediction": "Not red signal"
+  },
+  {
+    "image": "/Users/yuutonoimac/Desktop/SEE/new_image3.jpg",
+    "prediction": "Red signal"
+  },
+  {
+    "image": "/Users/yuutonoimac/Desktop/SEE/download.jpg",
+    "prediction": "Red signal"
+  }
+]
